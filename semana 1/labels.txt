@@ -1,0 +1,5 @@
+0 Fondo
+1 Conducción Distraída
+2 Fatiga y Sueño
+3 Exceso de Velocidad
+4 Consumo de Sustancias
