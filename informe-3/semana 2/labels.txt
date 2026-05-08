@@ -1,0 +1,3 @@
+0 Fondo
+1 Maquina sana
+2 Maquina falla
